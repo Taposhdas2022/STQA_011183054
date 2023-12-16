@@ -29,9 +29,7 @@ public class test_case_2 {
 
         //close the webpage
         driver.close();
-
-
-
+        
 
     }
 }
